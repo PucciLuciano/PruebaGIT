@@ -1,0 +1,63 @@
+# Created at 2024-10-13T15:19:03.580
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'be$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:782)'.
+
+# Created at 2024-10-13T15:19:03.582
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:965)'.
+
+# Created at 2024-10-13T15:19:03.583
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253)'.
+
+# Created at 2024-10-13T15:19:03.585
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:1467)'.
+
+# Created at 2024-10-13T15:19:03.586
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:1412)'.
+
+# Created at 2024-10-13T15:19:03.588
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)'.
+
+# Created at 2024-10-13T15:19:04.572
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:1412)'.
+
+# Created at 2024-10-13T15:19:07.831
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'be$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:782)'.
+
+# Created at 2024-10-13T15:19:07.833
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:965)'.
+
+# Created at 2024-10-13T15:19:07.834
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253)'.
+
+# Created at 2024-10-13T15:19:07.835
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:1467)'.
+
+# Created at 2024-10-13T15:19:07.837
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:1412)'.
+
+# Created at 2024-10-13T15:19:07.838
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)'.
+
+# Created at 2024-10-13T15:19:12.095
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:1412)'.
+
+# Created at 2024-10-13T15:19:12.738
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'be$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:782)'.
+
+# Created at 2024-10-13T15:19:12.739
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:965)'.
+
+# Created at 2024-10-13T15:19:12.740
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253)'.
+
+# Created at 2024-10-13T15:19:12.741
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:1467)'.
+
+# Created at 2024-10-13T15:19:12.741
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:1412)'.
+
+# Created at 2024-10-13T15:19:12.742
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)'.
+
+# Created at 2024-10-13T15:19:12.835
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:1412)'.
+
